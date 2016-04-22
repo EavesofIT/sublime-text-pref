@@ -18,7 +18,6 @@
 	"theme": "Flatland Dark.sublime-theme",
 	"trim_trailing_white_space_on_save": true,
 	"tab_size": 2,
-  "translate_tabs_to_spaces": false,
 	"scroll_past_end": true,
 	"show_line_endings": true,
 	"show_enconding": true,
